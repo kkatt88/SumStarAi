@@ -1,0 +1,5 @@
+/* This CSS file is specifically for article pages to handle relative paths correctly */
+
+header {
+    background-image: url('../images/header-bg.jpg');
+}

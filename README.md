@@ -13,6 +13,23 @@ SumStar AI is an NLP-powered product review analysis system that aggregates cust
 - **AI-Generated Summaries**: Creates detailed recommendation articles based on customer feedback
 - **Interactive Website**: Presents findings in a user-friendly web interface
 
+## Project Structure
+
+```
+SumStarAi/
+├── website/               # Original web interface files
+├── docs/                  # Deployment folder for GitHub Pages
+│   ├── index.html         # Home page
+│   ├── styles.css         # Main stylesheet
+│   ├── script.js          # JavaScript functionality
+│   ├── images/            # Website images
+│   └── articles/          # Product category articles
+├── Generated Articles/    # Raw article content in markdown
+├── Images/                # Project images and assets
+├── requirements.txt       # Python dependencies
+└── README.md              # Project documentation
+```
+
 ## Technologies Used
 
 - **Data Analysis**: Python, Pandas, NumPy
@@ -29,7 +46,7 @@ SumStar AI is an NLP-powered product review analysis system that aggregates cust
 
 ## Deployment
 
-The website is deployed using GitHub Pages and can be accessed at: https://yourusername.github.io/sumstar-ai/
+The website is deployed using GitHub Pages and can be accessed at: https://kkatt88.github.io/SumStarAi/
 
 ## License
 
