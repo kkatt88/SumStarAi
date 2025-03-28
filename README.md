@@ -5,7 +5,8 @@
 ## Project Overview
 
 SumStar AI is an NLP-powered product review analysis system that aggregates customer feedback from various sources to provide insightful product recommendations. The system uses natural language processing techniques to classify reviews, cluster product categories, and generate comprehensive recommendation articles.
-    Dataset used: https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products/data
+
+Dataset used: https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products/data
 
 ## Features
 
